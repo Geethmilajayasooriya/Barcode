@@ -16,5 +16,5 @@ This is a simple web-based Barcode Generator built using **HTML**, **JavaScript*
 3. Type a code in the input box and click **Submit**.
 4. A barcode will be generated instantly below.
 
-## 📁 Project Structure
+
 
